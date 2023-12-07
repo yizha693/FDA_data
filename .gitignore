@@ -1,2 +1,10 @@
+# Virtual environment
 venv/
+env/
+.venv/
+ENV/
+
 service_account.json
+
+# Environment variables
+.env
