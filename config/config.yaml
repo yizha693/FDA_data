@@ -8,3 +8,9 @@ FEARS:
 
 NADAC:
   url: "https://data.medicaid.gov/api/1/metastore/schemas/dataset/items/4a00010a-132b-4e4d-a611-543c9521280f?show-reference-ids=ture"
+
+AIRFLOW:
+  dag_email: xyz@gmail.com
+
+PROJECT_ID: poised-lens-407406
+
